@@ -1,2 +1,2 @@
 # telco-churn-prediction
-Developed 85% accurate Telecom Churn Prediction model using Python (scikit-learn) on IBM dataset. Identified Monthly Charges and short tenure as key drivers. Created executive dashboard recommending 50% churn reduction strategies via contract optimization.
+I developed a Telecom Churn Prediction model achieving 85% accuracy using Python and Scikit-Learn. By analyzing the IBM dataset, I identified that high monthly charges and short-term contracts are the primary drivers of customer attrition. To translate these technical insights into business value, I designed a UI/UX executive dashboard that provides actionable risk scores and retention strategies, aimed at reducing churn by 50% through contract optimization and targeted customer engagement
